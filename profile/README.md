@@ -61,3 +61,5 @@
 ## Project Architecture
 <img width="636" alt="빌려방 아키텍처" src="https://github.com/PDA-BillyBang/.github/assets/99806443/ab20b067-9847-4f95-b9e4-0c5718b9c4e9">
 
+## Demo Video
+[![Watch the video](https://img.youtube.com/vi/dMY8Ps0iDD0/0.jpg)](https://youtu.be/dMY8Ps0iDD0)
