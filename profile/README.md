@@ -20,7 +20,7 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |<img width="120px" src="https://avatars.githubusercontent.com/u/122508517?s=96&v=4"/> |<img width="120px" src="https://avatars.githubusercontent.com/u/71091090?s=96&v=4" />|<img width="120px" src="https://avatars.githubusercontent.com/u/73633272?s=96&v=4"/>|<img width="120px" src="https://avatars.githubusercontent.com/u/99806443?s=96&v=4"/>|<img width="120px" src="https://avatars.githubusercontent.com/u/93817551?s=96&v=4"/>|<img width="120px" src="https://avatars.githubusercontent.com/u/116990111?s=96&v=4"/>|
 |front-end|front-end|front-end|back-end|back-end|back-end|
-|지도 페이지<br/>지도 필터링 기능<br/>매물 검색 기능|회원가입 페이지<br/>로그인 페이지<br/>개인정보 입력 페이지|대출 페이지<br/>대출기관 페이지<br/>통계, 뉴스 페이지|대출 API<br/>재무지표 점수화<br/>대출 추천 알고리즘|유저 API<br/>MSA 설계<br/>CI/CD 구축|매물 API<br/>통계 API<br/>매물 크롤링|
+|지도 페이지<br/>지도 필터링 기능<br/>매물 검색 기능|회원가입 페이지<br/>로그인 페이지<br/>개인정보 입력 페이지|대출 페이지<br/>대출기관 페이지<br/>통계, 뉴스 페이지|대출 API<br/>재무지표 점수화<br/>대출 추천 알고리즘|유저 API, 매물 API<br/>MSA 설계<br/>CI/CD 구축|매물 API<br/>통계 API<br/>매물 크롤링|
 
 ## Main Features
 ### ⭐️ 매물
