@@ -37,6 +37,9 @@
 - 개인 금융 정보 입력 가능
 - 입력된 내용을 바탕으로 맞춤형 대출 상품 추천 가능
 
+## TroubleShooting
+[개발 이슈](https://www.notion.so/1528aeebff8580b29dbddda6bfb2709d)
+
 ## Stacks
 
 ### Environment
