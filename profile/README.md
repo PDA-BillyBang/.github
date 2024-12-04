@@ -38,7 +38,7 @@
 - 입력된 내용을 바탕으로 맞춤형 대출 상품 추천 가능
 
 ## TroubleShooting
-[개발 이슈](https://www.notion.so/1528aeebff8580b29dbddda6bfb2709d)
+[개발 이슈에 대해 자세히 알아보기](https://www.notion.so/1528aeebff8580b29dbddda6bfb2709d)
 
 ## Stacks
 
